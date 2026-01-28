@@ -24,4 +24,4 @@ Currently building production systems at Golestan Foundation (serving 19 organiz
 - LinkedIn: [linkedin.com/in/parsa-samandi](https://linkedin.com/in/parsa-samandi)
 - Email: parsasamandizadeh@gmail.com
 
-📍 Based in Burnaby, BC | Open to Backend & AI/ML opportunities
+ Based in Burnaby, BC | Open to Backend & AI/ML opportunities
