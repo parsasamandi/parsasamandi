@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Parsa 👋
 
-<!--
-**parsasamandi/parsasamandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer with 2+ years experience building production web applications. Currently exploring AI/ML and LLM applications.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Backend:** PHP, Laravel, MySQL
+- **Python:** FastAPI, Django
+- **AI/ML:** RAG, Semantic Search, LLM APIs, Vector Embeddings
+- **Tools:** Git, AI-Assisted Development (Claude AI, ChatGPT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **[PDF Chatbot](https://github.com/parsasamandi/pdf-chatbot)** - RAG-powered chatbot for querying PDF documents
+- **[Semantic Search Engine](https://github.com/parsasamandi/semantic-search-engine)** - AI-powered document search using embeddings
+- **[Gmail to Telegram](https://github.com/parsasamandi/gmail-to-telegram)** - Email notification automation
+
+## 💼 Experience
+Currently building production systems at Golestan Foundation (serving 19 organizations).
+
+## 📫 Connect
+- LinkedIn: [linkedin.com/in/parsa-samandi](https://linkedin.com/in/parsa-samandi)
+- Email: parsasamandizadeh@gmail.com
+
+📍 Based in Burnaby, BC | Open to Backend & AI/ML opportunities
