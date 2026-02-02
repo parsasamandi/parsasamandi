@@ -1,6 +1,6 @@
 # Hi, I'm Parsa 
 
-Backend Developer with 2+ years experience building production web applications. Currently exploring AI/ML and LLM applications.
+Web Developer with 2+ years experience building production web applications. Currently exploring AI/ML and LLM applications.
 
 ## Tech Stack
 
