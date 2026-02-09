@@ -10,7 +10,7 @@ Web Developer with 2+ years experience building production web applications. Cur
 
 ## Featured Projects
 
-- **[Laravel Multi-Organization Center](https://github.com/parsasamandi/laravel-multi-organization-center)** - Multi-tenant admin panel with role-based access control and data isolation
+- **[Laravel Multi-Organization Dashboard](https://github.com/parsasamandi/laravel-multi-organization-center)** - Multi-tenant admin panel with role-based access control and data isolation
 - **[PDF Chatbot](https://github.com/parsasamandi/pdf-chatbot)** - RAG-powered chatbot for querying PDF documents
 - **[Semantic Search Engine](https://github.com/parsasamandi/semantic-search-engine)** - AI-powered document search using embeddings
 - **[Gmail to Telegram](https://github.com/parsasamandi/gmail-to-telegram)** - Email notification automation
