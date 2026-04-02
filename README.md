@@ -17,7 +17,7 @@ Web Developer with 2+ years experience building production web applications. Som
 
 ## Experience
 
-Currently developing at Golestan Foundation (serving 19 organizations).
+Currently developing for private clients & Golestan Foundation.
 
 ## Connect
 
