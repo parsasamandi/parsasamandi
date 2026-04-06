@@ -5,8 +5,6 @@ Web Developer with 2+ years experience building production web applications. Som
 ## Tech Stack
 
 - **Backend:** PHP, Laravel, MySQL
-- **AI/ML:** RAG, Semantic Search, LLM APIs, Vector Embeddings
-- **Tools:** Git, AI-Assisted Development (Claude AI, ChatGPT)
 
 ## Featured Projects
 
