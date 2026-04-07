@@ -4,9 +4,11 @@ Web Developer with 2+ years experience building production web applications. Som
 
 ## Tech Stack
 
-- **Backend:** PHP, Laravel, MySQL
-- **AI/ML:** Python, RAG, LLM APIs, Embeddings
-- **Frontend:** TypeScript, Next.js
+- **Backend:** PHP, Laravel, MySQL  
+- **Frontend:** TypeScript, Next.js  
+- **AI/ML:** Python, RAG, LLM APIs, Embeddings  
+- **Workflow:** AI-assisted development, API integrations  
+
 
 ## Featured Projects
 
