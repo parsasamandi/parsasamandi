@@ -5,12 +5,16 @@ Web Developer with 2+ years experience building production web applications. Som
 ## Tech Stack
 
 - **Backend:** PHP, Laravel, MySQL
+- **AI/ML:** Python, RAG, LLM APIs, Embeddings
+- **Frontend:** TypeScript, Next.js
 
 ## Featured Projects
 
-- **[Laravel Multi-Organization Dashboard](https://github.com/parsasamandi/laravel-multi-organization-center)** - Multi-tenant admin panel with role-based access control and data isolation
+- **[Laravel Multi-Organization Dashboard](https://github.com/parsasamandi/laravel-multi-organization-dashboard-fa)** - Multi-tenant admin panel with role-based access control and data isolation
+- **[IT Tech Portfolio](https://github.com/parsasamandi/IT-tech-portfolio)** - Portfolio website for an IT-tech business built with TypeScript
 - **[PDF Chatbot](https://github.com/parsasamandi/pdf-chatbot)** - RAG-powered chatbot for querying PDF documents
 - **[Semantic Search Engine](https://github.com/parsasamandi/semantic-search-engine)** - AI-powered document search using embeddings
+- **[LLM Learnings](https://github.com/parsasamandi/llm-learnings)** - LLM API calls, conversation memory, structured outputs, and RAG implementations
 - **[Gmail to Telegram](https://github.com/parsasamandi/gmail-to-telegram)** - Email notification automation
 
 ## Experience
