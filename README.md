@@ -1,0 +1,30 @@
+# Hi, I'm Parsa
+
+Web Developer with 2+ years experience building production web applications. Some experience with AI/ML and LLM applications.
+
+## Tech Stack
+
+- **Backend:** PHP, Laravel, MySQL
+- **Frontend:** TypeScript, Next.js
+- **AI/ML:** Python, RAG, LLM APIs, Embeddings
+- **Workflow:** AI-assisted development, API integrations
+
+## Featured Projects
+
+- **[Laravel Multi-Organization Dashboard](https://github.com/parsasamandi/laravel-multi-organization-dashboard-fa)** - Multi-tenant admin panel with role-based access control and data isolation
+- **[IT Tech Portfolio](https://github.com/parsasamandi/IT-tech-portfolio)** - Portfolio website for an IT-tech business built with TypeScript
+- **[PDF Chatbot](https://github.com/parsasamandi/pdf-chatbot)** - RAG-powered chatbot for querying PDF documents
+- **[Semantic Search Engine](https://github.com/parsasamandi/semantic-search-engine)** - AI-powered document search using embeddings
+- **[LLM Learnings](https://github.com/parsasamandi/llm-learnings)** - LLM API calls, conversation memory, structured outputs, and RAG implementations
+- **[Gmail to Telegram](https://github.com/parsasamandi/gmail-to-telegram)** - Email notification automation
+
+## Experience
+
+Currently developing for private clients & Golestan Foundation.
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/parsa-samandi](https://linkedin.com/in/parsa-samandi)
+- Email: parsasamandizadeh@gmail.com
+
+Based in Burnaby, BC | Open to Backend & AI/ML opportunities
