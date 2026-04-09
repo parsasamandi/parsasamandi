@@ -5,9 +5,8 @@ Web Developer with 2+ years experience building production web applications. Som
 ## Tech Stack
 
 - **Backend:** PHP, Laravel, MySQL
-- **Frontend:** TypeScript, Next.js
-- **AI/ML:** Python, RAG, LLM APIs, Embeddings
-- **Workflow:** AI-assisted development, API integrations
+- **AI/ML Familiarity:** Python, RAG, LLM APIs, Embeddings
+- **Workflow:** AI-Native Engineering, Intent-Driven Development, API Integrations
 
 ## Featured Projects
 
@@ -27,4 +26,4 @@ Currently developing for private clients & Golestan Foundation.
 - LinkedIn: [linkedin.com/in/parsa-samandi](https://linkedin.com/in/parsa-samandi)
 - Email: parsasamandizadeh@gmail.com
 
-Based in Burnaby, BC | Open to Backend & AI/ML opportunities
+Based in Canada | Open to Full-Stack & AI/ML opportunities
