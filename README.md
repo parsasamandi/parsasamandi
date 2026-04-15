@@ -4,6 +4,8 @@ Web Developer with 2+ years experience building production web applications. Som
 
 ## Tech Stack
 
+- **Fullstack:** TypeScript, Next.js, NestJS, PostgreSQL
+- **Frontend & UI:** Tailwind CSS, React
 - **Backend:** PHP, Laravel, MySQL
 - **AI/ML Familiarity:** Python, RAG, LLM APIs, Embeddings
 - **Workflow:** AI-Native Engineering, Intent-Driven Development, API Integrations
