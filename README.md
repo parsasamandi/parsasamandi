@@ -10,6 +10,7 @@ Web Developer with 2+ years experience building production web applications. Som
 
 ## Featured Projects
 
+- **[QueuePlatform](https://github.com/parsasamandi/queue-management-system)** - Multi-tenant SaaS for real-time queue management and appointment booking, built with a high-performance unified Next.js and NestJS architecture.
 - **[Laravel Multi-Organization Dashboard](https://github.com/parsasamandi/laravel-multi-organization-dashboard-fa)** - Multi-tenant admin panel with role-based access control and data isolation
 - **[IT Tech Portfolio](https://github.com/parsasamandi/IT-tech-portfolio)** - Portfolio website for an IT-tech business built with TypeScript
 - **[PDF Chatbot](https://github.com/parsasamandi/pdf-chatbot)** - RAG-powered chatbot for querying PDF documents
