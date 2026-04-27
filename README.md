@@ -1,6 +1,6 @@
 # Hi, I'm Parsa
 
-Web Developer with 2 years experience building production web applications. Some experience with AI/ML and LLM applications.
+AI native Full Stack Developer with 2 years experience building production web applications. Some experience with AI/ML and LLM applications.
 
 ## Tech Stack
 
